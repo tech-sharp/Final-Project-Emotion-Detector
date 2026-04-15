@@ -43,4 +43,4 @@ def render_index_page():
     return render_template('index.html')
 
 if __name__ == "__main__":
-    run_emotion_detection()
+    run_emotion_detection()
